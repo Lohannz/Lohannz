@@ -1,6 +1,10 @@
 
-##Hello, My name is Lohan. I am from Brazil.
-##I'm actually 17.
+#👋 Welcome to my Github profile.
+
+
+##Hello, My name is Lohan 
+I am from Brazil.
+  I'm actually 17.
   🔭 I am in High School.
   🌱 Also in my free time i am learning Programming!
    
@@ -8,11 +12,11 @@
  👋 Welcome to my Github profile.
                     #I'M LEARNING..."
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" font=""/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" size="6"/>
           I really like to work With C language.
           
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" size="13" />
           Python too.
  <div>
  <a href="https://github.com/Lohannz">
