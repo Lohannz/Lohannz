@@ -16,13 +16,9 @@
           Python too.
  <div>
  <a href="https://github.com/Lohannz">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz)](https://github.com/Lohannz/)
+
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz&hide=contribs,prs)
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz&show_icons=true)
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz&show_icons=true&theme=dark)
  
  </div>
 <a href = "mailto:contato@lohan10nascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
