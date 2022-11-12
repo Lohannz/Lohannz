@@ -34,5 +34,5 @@ but I haven't really done a lot of project.</P>
  </div>
 
 <p>I am proposed to learn other technologies!</p>
-![](https://user-images.githubusercontent.com/98914170/201498135-8da881a1-060e-43ce-a22e-c921c28f87a0.gif)
+![](cat.gif)
 <a href = "mailto:contato@lohan10nascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
