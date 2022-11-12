@@ -1,16 +1,28 @@
-### Hi there 👋
+#Hello, My name is Lohan. 
+## I am from Brazil.
+### I'm actually 17.
+  🔭 I am in High School.
+  🌱 Also in my free time i am always learning Programming!
+   
 
-<!--
-**Lohannz/Lohannz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👋 Welcome to my Github profile.
+                    #I'M LEARNING..."
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+          I really like to work With C language.
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          Python too.
+ <div>
+ <a href="https://github.com/Lohannz">
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz)](https://github.com/Lohannz/)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz&hide=contribs,prs)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz&show_icons=true)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+ 
+ </div>
+<a href = "mailto:contato@lohan10nascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
