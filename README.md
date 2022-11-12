@@ -1,28 +1,34 @@
 
-👋 Welcome to my Github profile.
+<h1>👋 Welcome to my Github profile.</h1>
 
 
-##Hello, My name is Lohan.
-I am from Brazil.
-  I'm actually 17.
-  🔭 I am in High School.
-  🌱 Also in my free time i am learning Programming!
+<p>Hello, My name is Lohan,I'm from Brazil and 
+I'm currently 17 years old</p>
+  🔭 
+  🌱 
+<p>I'm in high school, also in my leisure time I'm learning programming!!</p>
+
    
 
- 👋 Welcome to my Github profile.
-                    #I'M LEARNING..."
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" size="6"/>
-          I really like to work With C language.
+
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="60" >
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="60" width="60"/>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" width="60" />
           
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" size="13" />
-          Python too.
- <div>
+ </div>
+  
+  
+  
  <a href="https://github.com/Lohannz">
 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz&show_icons=true&theme=dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz&show_icons=true&theme=tokyonight)
  
  </div>
 <a href = "mailto:contato@lohan10nascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
