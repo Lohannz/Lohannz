@@ -1,8 +1,8 @@
 
-#👋 Welcome to my Github profile.
+👋 Welcome to my Github profile.
 
 
-##Hello, My name is Lohan 
+##Hello, My name is Lohan.
 I am from Brazil.
   I'm actually 17.
   🔭 I am in High School.
