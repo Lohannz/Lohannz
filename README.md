@@ -1,14 +1,14 @@
-#Hello, My name is Lohan. 
-## I am from Brazil.
-### I'm actually 17.
+
+##Hello, My name is Lohan. I am from Brazil.
+##I'm actually 17.
   🔭 I am in High School.
-  🌱 Also in my free time i am always learning Programming!
+  🌱 Also in my free time i am learning Programming!
    
 
  👋 Welcome to my Github profile.
                     #I'M LEARNING..."
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" font=""/>
           I really like to work With C language.
           
 
