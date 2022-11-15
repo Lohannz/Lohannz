@@ -28,7 +28,7 @@ but I haven't really done a lot of project.</P>
 
    <div>
  <a href="https://github.com/Lohannz">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Lohannnz/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohannz&hide=javascript,css,scss,html&theme=tokyonight)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz&show_icons=true&theme=tokyonight)
  </div>
