@@ -25,10 +25,10 @@ I'm currently 17 years old</p>
   <P>
 I really enjoy working with C and C++, it's a lot of fun.<br>C is the one I studied the most. <br>Python was my first language, 
 but I haven't really done a lot of project.</P>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohannz&layout=compact)](https://github.com/Lohannz/github-readme-stats)
+
    <div>
  <a href="https://github.com/Lohannz">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Lohannnz/github-readme-stats)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz&show_icons=true&theme=tokyonight)
  </div>
