@@ -34,6 +34,6 @@ but I haven't really done a lot of project.</P>
  </div>
 
 <p>I am proposed to learn other technologies!</p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohannz)](https://github.com/Lohannz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohannz&langs_count=8)](https://github.com/Lohannz/github-readme-stats)
 
 <a href = "mailto:contato@lohan10nascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
