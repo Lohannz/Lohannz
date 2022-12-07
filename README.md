@@ -19,12 +19,13 @@ I'm currently 17 years old</p>
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="60" width="60"/>
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" width="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="60" />
           
  </div>
   <P>
-I really enjoy working with C and C++, it's a lot of fun.<br>C is the one I studied the most. <br>Python was my first language, 
+I really enjoy working with C it's a lot of fun.<br>C is the one I studied the most. <br>Python was my first language, 
 but I haven't really done a lot of project.</P>
+   <p>currently learning c# and asp net</p>
 
    <div>
  <a href="https://github.com/Lohannz">
