@@ -8,14 +8,6 @@ I'm currently 18 years old</p>
   
 
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="60" >
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="60" width="60"/>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="60" />
-          
- </div>
   <P>
 I really enjoy working with C it's a lot of fun.<br></P>
    
@@ -27,6 +19,14 @@ I really enjoy working with C it's a lot of fun.<br></P>
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohannz&hide=css,scss,html&theme=tokyonight)
  </div>
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="60" >
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="60" width="60"/>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="60" />
+          
+ </div>
 <p>I am proposed to learn other technologies!</p>
 
 
