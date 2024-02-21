@@ -3,10 +3,10 @@
 
 
 <p>🌱 Hello, My name is Lohan,I'm from Brazil and 
-I'm currently 17 years old</p>
+I'm currently 18 years old</p>
    
   
-<p>🔭I'm in high school, also in my leisure time I'm learning programming!!</p>
+<p>🔭</p>
 
    
 
