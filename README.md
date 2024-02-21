@@ -6,12 +6,6 @@
 I'm currently 18 years old</p>
    
   
-<p>🔭</p>
-
-   
-
-
-
 
 
 <div align="center">
@@ -24,8 +18,7 @@ I'm currently 18 years old</p>
  </div>
   <P>
 I really enjoy working with C it's a lot of fun.<br></P>
-   <p>t</p>
-
+   
    <div>
  <a href="https://github.com/Lohannz">
  
