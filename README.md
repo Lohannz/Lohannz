@@ -24,7 +24,6 @@ I really enjoy working with C it's a lot of fun.<br></P>
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="60" width="60"/>
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="60" />
           
  </div>
 <p>I am proposed to learn other technologies!</p>
