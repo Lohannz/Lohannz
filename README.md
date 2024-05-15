@@ -1,15 +1,14 @@
 
-<h1>👋 Welcome to my Github profile.</h1>
+<h1>👋.</h1>
 
 
-<p>🌱 Hello My name is Lohan I'm from Brazil and 
-i'm 18 years old</p>
+<p>🌱 Hello My name is Lohan and I'm from Brazil </p>
    
   
 
 
   <P>
-I really enjoy working with C it's a lot of fun.<br></P>
+I really enjoy working with C<br></P>
    
    <div>
  <a href="https://github.com/Lohannz">
