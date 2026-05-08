@@ -14,8 +14,6 @@ I really enjoy working with C<br></P>
  <a href="https://github.com/Lohannz">
  
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lohannz&show_icons=true&theme=tokyonight)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohannz&hide=css,scss,html&theme=tokyonight)
  </div>
 
 <div align="center">
