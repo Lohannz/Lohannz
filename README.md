@@ -23,7 +23,5 @@ I really enjoy working with C<br></P>
   
           
  </div>
-<p>I am proposed to learn other technologies!</p>
-
 
 <a href = "mailto:contato@lohan10nascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
