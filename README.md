@@ -1,8 +1,7 @@
 # Lohan Vieira
 
 Computer Science student at UFRRJ (Rio de Janeiro). I build games and
-computer-vision tools, and I care about the boring parts: tests, deterministic
-simulation and documented decisions.
+computer-vision tools.
 
 ### What I'm working on
 
