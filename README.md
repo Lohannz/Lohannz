@@ -6,11 +6,6 @@ simulation and documented decisions.
 
 ### What I'm working on
 
-**Hollowblox** — a 2D side-scrolling survival game for Roblox, written in Luau.
-Enemies move on the beat of the music and the simulation runs on a deterministic
-`BeatClock`. Pure modules, 94 automated tests and a Rojo build.
-→ [repository](https://github.com/Lohannz/hollowblox)
-
 **Spirit Cube** — a 3D platformer in Godot 4 where light melts ice and wind
 changes gravity. Team project for the Computer Graphics course; I built the
 menus, loading screen, free camera and audio integration.
